@@ -18,6 +18,10 @@
 # plus()
 Warning = "Hmmmmm, nothing to calculate. Try again with number and sign [plus => +, minus => -, divide=> /, multiple => *, square=> **] ex) a, \"+\" , b "
 
+num_1 = int(input("First number"))
+num_2 = int(input("Second number")) 
+how = input("How?")
+
 
 def calc(a=Warning, how=Warning, b=Warning):
 
@@ -42,4 +46,4 @@ def calc(a=Warning, how=Warning, b=Warning):
     print(Warning)
 
 
-calc(1, "+", 2)
+calc(num_1, how, num_2)
