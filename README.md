@@ -5,7 +5,7 @@
 > * 파이썬 입문
 >
 > 시작 프로젝트
-> [Github] (https://github.com/Doilob/Python/blob/main/python_file/Hello%20World.py)
+> [Github](https://github.com/Doilob/Python/blob/main/python_file/Hello%20World.py)
 
 > # **2. Simple Calculator**
 > * 두번째 프로젝트
