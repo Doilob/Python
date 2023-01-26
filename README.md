@@ -9,7 +9,7 @@
 > # **2. Simple Calculator**
 > * 두번째 프로젝트
 > * 간단한 간이 계산기다.
-> * [Replit](https://replit.com/@jonguIfYou/Calculator?v=1), [Github](https://github.com/Doilob/Python/blob/main/Instant%20Calculator.py)
+> * [Github](https://github.com/Doilob/Python/blob/main/Instant%20Calculator.py)
 
 > # **3.**
 > * 세번째 프로젝트
